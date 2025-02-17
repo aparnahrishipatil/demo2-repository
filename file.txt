@@ -1,4 +1,1 @@
-This is Repo Created for Git Practical for Devops
-This is content written after 1st Commit
-adding new line
-This is Repo Created for Git Practical for Devops
+this is file created in local repo
